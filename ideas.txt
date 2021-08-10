@@ -1,0 +1,42 @@
+﻿1) SAILING CALCULATOR
+An app that helps a ship’s navigator determine the shortest distance between 2 points for an ocean voyage.  The app will compare the rhumb line track against the great circle track and let the navigation officer know which is shorter.  
+* Calculator that compares distances for both tracks
+* Map that shows the two different courses
+* Weather API that shows any hazardous weather the vessel might encounter
+* Text box that compares both trips
+* Automatic eta calculator based on the current date and time
+* A database that can hold the most common voyages
+
+
+
+
+2) ATLAS APP
+An app that helps dedicated olympic lifters track how close they are to joining the coveted “1000lb club”.  At the beginning of each month lifters will enter their compound lifts (Bench, Squat, Deadlift), these lifts will be kept in a database and tracked via matplotlib.
+* Save users info/lifts in database 
+* Plot data on a graph to visually show improvement
+* An additional BMI calculator
+* Weight will also be stored in a database to let you know how much weight you’ve lost/gained
+* A random motivation button to encourage people to go to the gym
+* A personal portfolio page where users can enter their personal info/goals
+
+
+3) NEUROLOGY APP
+An app used by neurologists to help them determine if what they’re seeing is a stroke.  User answers a few simple questions that will help narrow down chance it is a stroke.  This was my girlfriend's idea, I don’t know anything about neurology.
+* Will have links to published studies
+
+
+
+
+4) SURVIVAL GAME
+A remake of the classic 1977 game “Colossal Cave Adventure” except a survival game where you’re stuck in a bunker and need to escape.  Game will lean heavily on making weighted decisions (compare what is in your inventory against the choices to determine outcome)
+* Database to save players progress and inventory
+* Will probably run game in browser
+* Multiple different outcomes based on choices
+
+
+
+
+5) DEBT BOARD 
+A message board to connect terminally ill people with those who have a lot of debt.  After negotiating a price the debt will be transferred from the living person to the terminally ill person.
+* Database with user info
+* Forum style board to connect users
