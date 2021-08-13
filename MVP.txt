@@ -1,0 +1,15 @@
+﻿* Pitch/Idea: 
+An app for navigators aboard commercial vessels that will help them plan ocean voyages.  User will input beginning and ending positions into a calculator which will compare multiple route options and suggest the shortest one.  Users can also enter vessel’s speed parameters and app will produce an ETA table for that range of speeds.  User will have the option to save routes in their profile as well as view other user created routes.
+* MVP:
+   * Users can login
+   * User can put in coordinates for upcoming voyage and app will display distances 
+   * User can save routes
+   * User can see other common routes
+   * User can enter departure time and and min/max speed and app will create ETA table
+   * Chart will show various options
+   * User can look up weather via an API
+* Future Features:
+   * Weather API that lays directly over map and warns user if they are heading towards a storm
+   * Various other API’s that will warn users if that track brings them near other hazardous (shallow water, pirate waters etc)
+   * App that takes into account all parameters (weather, distance, ocean currents, danger zones etc) to create best route
+   * Ability to track actual voyage and relay voyage information (days run, total run, ETA, fuel spent etc) to office

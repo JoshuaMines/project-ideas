@@ -37,6 +37,6 @@ A remake of the classic 1977 game “Colossal Cave Adventure” except a surviva
 
 
 5) DEBT BOARD 
-A message board to connect terminally ill people with those who have a lot of debt.  After negotiating a price the debt will be transferred from the living person to the terminally ill person.
+A message board to connect terminally ill people with those who have a lot of debt.  After negotiating a price the debt will be transferred from the living person to the terminally ill person. 
 * Database with user info
 * Forum style board to connect users
